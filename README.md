@@ -1,16 +1,11 @@
-# indexed_stack
+# Indexed Stack
 
-A new Flutter project.
+Proyek Flutter ini berfokus pada implementasi **Indexed Stack**, yaitu widget yang memungkinkan pengguna untuk menampilkan satu dari beberapa widget pada satu waktu, berdasarkan indeks yang dipilih. Fitur ini sangat berguna untuk mengelola tampilan konten yang berbeda tanpa perlu membangun ulang widget.
 
-## Getting Started
+## Fitur Utama
+- **Navigasi Konten yang Mudah:** Aplikasi ini menggunakan widget IndexedStack untuk menyimpan beberapa widget dalam satu tempat dan menampilkan hanya widget yang sesuai dengan indeks yang dipilih.
+- **Efisiensi Memori:** Dengan menggunakan IndexedStack, widget yang tidak ditampilkan tetap ada di memori, sehingga mempercepat pemulihan tampilan saat pengguna beralih antar konten.
+- **Desain Responsif:** Pengguna dapat dengan mudah berpindah antara berbagai tampilan, seperti tab atau layar, tanpa kehilangan status atau data yang ada.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Tujuan Proyek
+Proyek ini bertujuan untuk memperkenalkan pengguna pada cara mengimplementasikan **Indexed Stack** di aplikasi Flutter. Dengan menggunakan IndexedStack, pengguna dapat belajar bagaimana mengelola tampilan konten yang berbeda dengan cara yang efisien dan responsif. Proyek ini juga memberikan kesempatan untuk memahami bagaimana mengoptimalkan pengalaman pengguna dalam aplikasi yang memiliki banyak tampilan.
