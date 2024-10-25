@@ -9,3 +9,16 @@ Proyek Flutter ini berfokus pada implementasi **Indexed Stack**, yaitu widget ya
 
 ### Tujuan Proyek
 Proyek ini bertujuan untuk memperkenalkan pengguna pada cara mengimplementasikan **Indexed Stack** di aplikasi Flutter. Dengan menggunakan IndexedStack, pengguna dapat belajar bagaimana mengelola tampilan konten yang berbeda dengan cara yang efisien dan responsif. Proyek ini juga memberikan kesempatan untuk memahami bagaimana mengoptimalkan pengalaman pengguna dalam aplikasi yang memiliki banyak tampilan.
+
+# SHOWCASE
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TEUNGKU-ZULKIFLI/PROJECT-FLUTTER/refs/heads/master/asset/img/015.1.png" width="200px"/>
+  <img src="https://raw.githubusercontent.com/TEUNGKU-ZULKIFLI/PROJECT-FLUTTER/refs/heads/master/asset/img/015.2.png" width="200px"/>
+  <img src="https://raw.githubusercontent.com/TEUNGKU-ZULKIFLI/PROJECT-FLUTTER/refs/heads/master/asset/img/015.3.png" width="200px"/>
+  <img src="https://raw.githubusercontent.com/TEUNGKU-ZULKIFLI/PROJECT-FLUTTER/refs/heads/master/asset/img/015.4.png" width="200px"/>
+  <img src="https://raw.githubusercontent.com/TEUNGKU-ZULKIFLI/PROJECT-FLUTTER/refs/heads/master/asset/img/015.5.png" width="200px"/>
+  <img src="https://raw.githubusercontent.com/TEUNGKU-ZULKIFLI/PROJECT-FLUTTER/refs/heads/master/asset/img/015.6.png" width="200px"/>
+  <img src="https://raw.githubusercontent.com/TEUNGKU-ZULKIFLI/PROJECT-FLUTTER/refs/heads/master/asset/img/015.7.png" width="200px"/>
+  <img src="https://raw.githubusercontent.com/TEUNGKU-ZULKIFLI/PROJECT-FLUTTER/refs/heads/master/asset/img/015.8.png" width="200px"/>
+  <img src="https://raw.githubusercontent.com/TEUNGKU-ZULKIFLI/PROJECT-FLUTTER/refs/heads/master/asset/img/015.9.png" width="200px"/>
+</div>
